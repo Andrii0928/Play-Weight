@@ -1,0 +1,20 @@
+{
+  "name": "playwright-basic-ts",
+  "version": "0.0.1",
+  "description": "",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "@playwright/test": "0.162.0"
+  },
+  "scripts": {
+    "test": "folio"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Microsoft Corporation"
+  },
+  "license": "Apache-2.0",
+  "repository": "github:Microsoft/playwright-test"
+}

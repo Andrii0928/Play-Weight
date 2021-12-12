@@ -1,0 +1,19 @@
+{
+  "name": "playwright-screenshot-on-failure",
+  "version": "0.0.1",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "@playwright/test": "0.151.0"
+  },
+  "scripts": {
+    "test": "folio --param screenshotOnFailure"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Microsoft Corporation"
+  },
+  "license": "Apache-2.0",
+  "repository": "github:Microsoft/playwright-test"
+}
